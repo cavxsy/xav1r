@@ -1,0 +1,7 @@
+- 👾 Hi, I’m @xav1r
+- 🔗 I’m interested in blockchain technology and decentralized applications.
+- 🧩 I’m currently learning advanced smart contract development and cybersecurity.
+- 🦇 I’m looking to collaborate on innovative blockchain projects and open-source contributions.
+- 📧 How to reach me: Threv1@proton.me or through GitHub issues.
+- 👤 Pronouns: He/Him
+- 🕶️ Fun fact: I once wrote a smart contract that became a viral meme in the crypto community!
